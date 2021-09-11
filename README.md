@@ -6,7 +6,7 @@ For info about the Griddlers game: https://en.wikipedia.org/wiki/Nonogram
 
 (This project was my Object Oriented Programming course project)
 
-### How to Play
+### How to play
 ### `The setup window`
 After launching the application you are met with the setup window.
 In the Game Setup tab you can choose either to set up a new game or load a previously saved one (when loading a game you can choose whether to use the current UI preferences or
